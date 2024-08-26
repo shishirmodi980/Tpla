@@ -95,4 +95,4 @@ This code is protected under the [GPL](https://github.com/Jitendraunatti/STALKER
 <h4 align='center'>© 2021-24 JITENDRA KUMAR</h4>
 
 <!-- DO NOT REMOVE THIS CREDIT -->
-<!-- © 2021-24 jitendra kumar -->
+<!-- © 2023-24 jitendra kumar -->
